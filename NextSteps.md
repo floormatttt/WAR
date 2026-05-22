@@ -1,0 +1,12 @@
+Tasks going forward: 
+- Claude code skill for implementing the PFF csvs
+    - get the full + 20% csvs 
+    - get pass block win rate for true pass sets and all pass sets
+    - sort the 20% csv by pbwr
+    - rename each csv to "O-Line Data [year]" (I will provide the year)
+- Use the SAM 3 Meta models to implement tracking on All-22 film
+    - track O-line D-line matchups
+- ML model on tracking and raw data on epa/success rate
+- ML model on tracking and raw data on team epa/success rate to determine how much the unit as a whole matters vs having one dominant player/one very weak link
+    - use this to determine how much impact O-linemen actually have on winning
+- Using the determined data, generate WAR

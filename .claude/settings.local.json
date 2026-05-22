@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking.csv\" \"2025\")",
+      "Skill(process-pff-oline-pass)",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking.csv\" \"2024\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"C:\\\\Users\\\\floor\\\\Coding\\\\WAR\\\\Pass Blocking PFF\\\\offense_pass_blocking.csv\" \"2025\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking 2024.csv\" \"2025\")",
+      "Bash(python -c ' *)",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking \\(1\\).csv\" \"2024\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking \\(1\\).csv\" \"2021\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking \\(2\\).csv\" \"2020\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking \\(3\\).csv\" \"2019\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking.csv\" \"2017\")",
+      "Bash(python \".claude/skills/process-pff-oline-pass/process_oline.py\" \"Pass Blocking PFF/offense_pass_blocking.csv\" \"2016\")"
+    ]
+  }
+}
