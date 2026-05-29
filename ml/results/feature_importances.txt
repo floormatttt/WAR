@@ -1,0 +1,15 @@
+Feature Importances (mean |SHAP|) -- Full-Model XGBoost -> pass_epa_per_play
+=================================================================
+avg_cpoe                        0.069771
+team_avg_grade                  0.012200
+team_avg_pbwr                   0.009103
+team_min_grade                  0.007508
+team_min_pbwr                   0.006808
+team_std_grade                  0.005968
+team_range_pbwr                 0.005683
+wl_delta                        0.004623
+wl_snap_share                   0.004345
+team_max_pbwr                   0.003911
+wl_pressure_rate                0.003384
+team_std_pbwr                   0.002646
+n_starter_qualified             0.001578

@@ -1,0 +1,25 @@
+Algorithm,Feature Set,TPS,Target,OOS R²,R² Std,MAE,RMSE
+Ridge,Unit-Only,No,pass_epa_per_play,0.0771,0.1568,0.09245,0.11313
+XGBoost,Unit-Only,No,pass_epa_per_play,-0.0797,0.2486,0.09836,0.122
+Ridge,Unit-Only,Yes,pass_epa_per_play,0.0154,0.1318,0.09573,0.11715
+XGBoost,Unit-Only,Yes,pass_epa_per_play,-0.152,0.1751,0.10169,0.12637
+Ridge,Weak-Link-Only,No,pass_epa_per_play,0.065,0.1461,0.0933,0.11395
+XGBoost,Weak-Link-Only,No,pass_epa_per_play,-0.124,0.2374,0.10108,0.12463
+Ridge,Weak-Link-Only,Yes,pass_epa_per_play,0.0208,0.1285,0.0957,0.11682
+XGBoost,Weak-Link-Only,Yes,pass_epa_per_play,-0.2173,0.1577,0.10626,0.1302
+Ridge,Full-Model,No,pass_epa_per_play,0.5989,0.1239,0.05918,0.07378
+XGBoost,Full-Model,No,pass_epa_per_play,0.503,0.1498,0.06567,0.0823
+Ridge,Full-Model,Yes,pass_epa_per_play,0.5671,0.1297,0.06164,0.07669
+XGBoost,Full-Model,Yes,pass_epa_per_play,0.5112,0.1636,0.06516,0.08133
+Ridge,Unit-Only,No,pass_success_rate,0.0321,0.1026,0.03118,0.03794
+XGBoost,Unit-Only,No,pass_success_rate,-0.0889,0.1094,0.03248,0.04019
+Ridge,Unit-Only,Yes,pass_success_rate,-0.0207,0.0991,0.03202,0.03897
+XGBoost,Unit-Only,Yes,pass_success_rate,-0.1355,0.1884,0.03344,0.04097
+Ridge,Weak-Link-Only,No,pass_success_rate,0.0345,0.0821,0.03101,0.03791
+XGBoost,Weak-Link-Only,No,pass_success_rate,-0.124,0.1558,0.03307,0.0409
+Ridge,Weak-Link-Only,Yes,pass_success_rate,-0.0089,0.0985,0.03179,0.03874
+XGBoost,Weak-Link-Only,Yes,pass_success_rate,-0.208,0.1124,0.03441,0.04239
+Ridge,Full-Model,No,pass_success_rate,0.6074,0.0956,0.01933,0.02393
+XGBoost,Full-Model,No,pass_success_rate,0.5245,0.1511,0.02107,0.02618
+Ridge,Full-Model,Yes,pass_success_rate,0.5852,0.1104,0.01986,0.02456
+XGBoost,Full-Model,Yes,pass_success_rate,0.5299,0.1756,0.02097,0.02588
